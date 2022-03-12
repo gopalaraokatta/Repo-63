@@ -1,3 +1,4 @@
 class sample
-{
+{utfuf
+
 public static void main
